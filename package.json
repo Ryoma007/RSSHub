@@ -44,6 +44,7 @@
     "@types/cheerio": "0.22.31",
     "@types/got": "9.6.12",
     "@types/koa": "2.13.4",
+    "@types/urijs": "^1.19.19",
     "@vercel/nft": "0.17.5",
     "@vuepress/plugin-back-to-top": "1.9.7",
     "@vuepress/plugin-google-analytics": "1.9.7",
@@ -81,6 +82,7 @@
     "@sentry/node": "6.18.1",
     "aes-js": "3.1.2",
     "art-template": "4.13.2",
+    "axios": "^0.26.0",
     "bbcodejs": "0.0.4",
     "cheerio": "1.0.0-rc.10",
     "chrono-node": "2.3.7",
@@ -131,6 +133,7 @@
     "tough-cookie": "4.0.0",
     "tunnel": "0.0.6",
     "twit": "2.2.11",
+    "urijs": "^1.19.9",
     "winston": "3.6.0",
     "xml2js": "0.4.23"
   },

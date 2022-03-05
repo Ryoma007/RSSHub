@@ -665,6 +665,10 @@ Example：`https://www.iyingdi.com/tz/people/55547` ，id 是 `55547`
 
 </Route>
 
+### 今日要闻
+
+<Route author="Ryoma007" example="/gamersky/today-news" path="/gamersky/today-news"/>
+
 ## 游戏打折情报
 
 ### 游戏折扣
