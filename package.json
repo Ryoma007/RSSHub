@@ -43,6 +43,7 @@
     "@napi-rs/pinyin": "1.7.0",
     "@types/cheerio": "0.22.31",
     "@types/got": "9.6.12",
+    "@types/ip": "^1.1.0",
     "@types/koa": "2.13.4",
     "@types/urijs": "^1.19.19",
     "@vercel/nft": "0.17.5",
