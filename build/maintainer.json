@@ -563,6 +563,9 @@
     "/bjfu/news/:type": [
         "markmingjie"
     ],
+    "/bjp/apod": [
+        "HenryQW"
+    ],
     "/bjx/gf/:type": [
         "Sxuet"
     ],
@@ -572,7 +575,7 @@
     "/blockbeats/:channel?": [
         "Fatpandac"
     ],
-    "/bloomberg/authors/:id/:slug": [
+    "/bloomberg/authors/:id/:slug/:source?": [
         "josh"
     ],
     "/bloomberg/:site?": [
@@ -845,6 +848,11 @@
     ],
     "/coomer/posts": [
         "nczitzk"
+    ],
+    "/copymanga/comic/:id/:chapterCnt?": [
+        "btdwv",
+        "marvolo666",
+        "yan12125"
     ],
     "/cpcey/:type?": [
         "Fatpandac"
@@ -1228,6 +1236,9 @@
     "/economist/gre-vocabulary": [
         "xyqfer"
     ],
+    "/economist/global-business-review/:language?": [
+        "prnake"
+    ],
     "/economist/:endpoint": [
         "ImSingee"
     ],
@@ -1521,6 +1532,9 @@
     "/google/fonts/:sort?": [
         "Fatpandac"
     ],
+    "/google/news/:category/:locale": [
+        "zoenglinghou"
+    ],
     "/google/scholar/:query": [
         "HenryQW"
     ],
@@ -1773,6 +1787,9 @@
     "/guancha/topic/:id/:order?": [
         "occupy5",
         "nczitzk"
+    ],
+    "/guandian/:category": [
+        "drgnchan"
     ],
     "/guangdiu/rank": [
         "fatpandac"
@@ -2568,6 +2585,9 @@
     ],
     "/line/today/:edition?/:tab?": [
         "nczitzk"
+    ],
+    "/linkedin/jobs": [
+        "BrandNewLifeJackie26"
     ],
     "/linkresearcher/:params": [
         "yech1990"
@@ -3655,6 +3675,10 @@
     "/sensortower/blog/:language?": [
         "nczitzk"
     ],
+    "/shiep/:type/:id?": [
+        "gumibea",
+        "TeamSUEP"
+    ],
     "/shmeea/": [
         "jialinghui"
     ],
@@ -3707,6 +3731,9 @@
     ],
     "/sis001/forum/:id": [
         "TonyRL"
+    ],
+    "/skysports/news/:team": [
+        "nczitzk"
     ],
     "/smzdm/article/:uid": [
         "xfangbao"
@@ -4211,6 +4238,9 @@
     "/unusualwhales/news": [
         "TonyRL"
     ],
+    "/uptimerobot/rss/:id/:routeParams?": [
+        "Rongronggg9"
+    ],
     "/uraaka-joshi/": [
         "SettingDust",
         "Halcao"
@@ -4489,6 +4519,21 @@
     ],
     "/worldjournal/:path*": [
         "TonyRL"
+    ],
+    "/woshipm/bookmarks/:id": [
+        "LogicJake"
+    ],
+    "/woshipm/latest": [
+        "Director-0428"
+    ],
+    "/woshipm/popular/:range?": [
+        "WenryXu"
+    ],
+    "/woshipm/user_article/:id": [
+        "LogicJake"
+    ],
+    "/woshipm/wen": [
+        "WenryXu"
     ],
     "/wp-china/news/:category?": [
         "nczitzk"
@@ -4825,6 +4870,12 @@
     ],
     "/zhitongcaijing/:id?/:category?": [
         "nczitzk"
+    ],
+    "/zhiy/letters/:author": [
+        "TonyRL"
+    ],
+    "/zhiy/posts/:author": [
+        "TonyRL"
     ],
     "/zhubai/:id": [
         "naixy28"
@@ -5176,8 +5227,6 @@
     "/xiachufang/popular/:timeframe?": [],
     "/eeo/:column?/:category?": [],
     "/tencentvideo/playlist/:id": [],
-    "/copymanga/comic/:id/:chapterCnt?": [],
-    "/copymanga/comic/:id": [],
     "/cartoonmad/comic/:id": [],
     "/vol/:mode?": [],
     "/dongmanmanhua/:category/:name/:id": [],
@@ -5262,11 +5311,6 @@
     "/jpmorganchase": [],
     "/meipai/user/:uid": [],
     "/duozhi": [],
-    "/woshipm/popular": [],
-    "/woshipm/wen": [],
-    "/woshipm/bookmarks/:id": [],
-    "/woshipm/user_article/:id": [],
-    "/woshipm/latest": [],
     "/gaoqing/latest": [],
     "/whalegogo/home": [],
     "/whalegogo/portal/:type_id/:tagid?": [],
@@ -5285,7 +5329,6 @@
     "/instapaper/person/:name": [],
     "/ui-cn/article": [],
     "/ui-cn/user/:id": [],
-    "/bjp/apod": [],
     "/juesheng": [],
     "/maitta": [],
     "/blogs/jingwei.link": [],
@@ -5659,7 +5702,6 @@
     "/hackerone/hacktivity": [],
     "/hackerone/search/:search": [],
     "/cowlevel/element/:id": [],
-    "/google/news/:category/:locale": [],
     "/p-articles/section/:section": [],
     "/p-articles/contributors/:author": [],
     "/haohaozhu/whole-house/:keyword?": [],
@@ -5883,7 +5925,6 @@
     "/iqshw/latest": [],
     "/3k8/latest": [],
     "/justrun": [],
-    "/shiep/:type": [],
     "/fjnews/:city/:limit": [],
     "/fjnews/jjnews": [],
     "/zsnews/index/:cateid": [],
@@ -6165,7 +6206,6 @@
     "/yuzu-emu/entry": [],
     "/partnershiponai/resources": [],
     "/commonapp/blog": [],
-    "/skysports/news/:team": [],
     "/europapress/:category?": [],
     "/worldhappiness/blog": [],
     "/worldhappiness/archive": [],
